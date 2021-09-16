@@ -1,0 +1,9 @@
+C:\Users\home\Desktop\game\mini_1\mini-game-1\flying bird\flying bird\bin\Debug\flying bird.exe.config
+C:\Users\home\Desktop\game\mini_1\mini-game-1\flying bird\flying bird\bin\Debug\flying bird.exe
+C:\Users\home\Desktop\game\mini_1\mini-game-1\flying bird\flying bird\bin\Debug\flying bird.pdb
+C:\Users\home\Desktop\game\mini_1\mini-game-1\flying bird\flying bird\obj\Debug\flying bird.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\game\mini_1\mini-game-1\flying bird\flying bird\obj\Debug\flying_bird.Form1.resources
+C:\Users\home\Desktop\game\mini_1\mini-game-1\flying bird\flying bird\obj\Debug\flying_bird.Properties.Resources.resources
+C:\Users\home\Desktop\game\mini_1\mini-game-1\flying bird\flying bird\obj\Debug\flying bird.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\game\mini_1\mini-game-1\flying bird\flying bird\obj\Debug\flying bird.exe
+C:\Users\home\Desktop\game\mini_1\mini-game-1\flying bird\flying bird\obj\Debug\flying bird.pdb
